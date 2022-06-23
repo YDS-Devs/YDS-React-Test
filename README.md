@@ -8,11 +8,11 @@ We just need to test your programming skills, so this is a small task to make wi
 1 - Create a form to submit a new address to the backend using RestAPI
 The form must have the following fields :
 
-- Name (String)\_\_
-- Address (String)\_\_
-- Apartment no. (integer)\_\_
-- Floor no. (integer)\_\_
-- City (Selection field – you will retrieve the data from backend API)\_\_
+- Name (String)
+- Address (String)
+- Apartment no. (integer)
+- Floor no. (integer)
+- City (Selection field – you will retrieve the data from backend API)
 
 2- Create a list to display the addresses from the backend
 
