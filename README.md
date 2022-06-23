@@ -22,8 +22,8 @@ Please use Axios to handle API calls
 
 # Bouns :
 
-Users can edit the address
-Users can delete the address
-Use React-hook-form for the Form control
-Use yup for form validation
-Use Material-UI for Styling
+- Users can edit the address
+- Users can delete the address
+- Use React-hook-form for the Form control
+- Use yup for form validation
+- Use Material-UI for Styling
