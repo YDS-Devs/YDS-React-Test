@@ -41,16 +41,20 @@ Integrate the app with google maps iframe to get longitude & latitude
 - Use the fetched coordinates to generate a link to view the location on google maps.
 
 5 - Users can edit the address
+
 6 - Users can delete the address
+
 7 - Use React-hook-form for the Form control (create a re-usable form component).
+
 8 - Use yup for form validation
+
 9 - Use Material-UI for Styling
 
 # Notes :
 
-Please use apisauce to handle API calls ( create API middleware to handle displaying data or displaying errors if exist).
+- Please use apisauce to handle API calls ( create API middleware to handle displaying data or displaying errors if exist).
 
-Use hooks (react functional components).
+- Use hooks (react functional components).
 
 # Backend Repository
 
